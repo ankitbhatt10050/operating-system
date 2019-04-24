@@ -4,7 +4,7 @@
 #include <windows.h>
 
 void sjf()
- {system("cls");
+ {system("cls")
    system("COLOR 03");
 int bursttime[20],at[10],n,i,j,temp,st[10],ft[10],wt[10],tat[10];
 int totwt=0,tottat=0;
